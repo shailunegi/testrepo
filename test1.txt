@@ -1,0 +1,10 @@
+ Volume in drive C is Acer
+ Volume Serial Number is 0AF7-EF11
+
+ Directory of C:\DEVOPS\gitproject
+
+04-05-2021  20:19    <DIR>          .
+04-05-2021  20:19    <DIR>          ..
+04-05-2021  20:19                 0 test1.txt
+               1 File(s)              0 bytes
+               2 Dir(s)  425,531,719,680 bytes free
